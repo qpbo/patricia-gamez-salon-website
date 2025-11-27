@@ -219,7 +219,7 @@ All animations designed with performance in mind:
 Full Stack Developer | Web Design & Development
 
 - 🌐 Portfolio: [Coming Soon]
-- 💼 LinkedIn: [Your LinkedIn]
+- 💼 LinkedIn: [www.linkedin.com/in/carlos-díaz-arroyo]
 - 🐙 GitHub: [@qpbo](https://github.com/qpbo)
 
 ---
