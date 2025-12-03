@@ -7,7 +7,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-deployed-00C7B7)
 ![Security](https://img.shields.io/badge/security-8.5%2F10-green)
 
-**[🌐 View Live Website](https://patriciagamez.netlify.app/)**
+**[🌐 View Live Website](https://patriciagamez.pages.dev/)**
 
 *A stunning, premium web experience for a professional hair salon in El Puerto de Santa María, Spain*
 
@@ -241,7 +241,7 @@ This is a client project developed for Patricia Gámez Estilista. All rights res
 
 <div align="center">
 
-**[Visit Live Site](https://patriciagamez.netlify.app/)** | **[View Raw Code](https://github.com/qpbo)** | **[Report Issue](https://github.com/qpbo/issues)**
+**[Visit Live Site](https://patriciagamez.pages.dev/)** | **[View Raw Code](https://github.com/qpbo)** | **[Report Issue](https://github.com/qpbo/issues)**
 
 Made with 💛 and ✨ by Carlos Diaz Arroyo
 
