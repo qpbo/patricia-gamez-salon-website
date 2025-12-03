@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/status-live-success)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Netlify](https://img.shields.io/badge/netlify-deployed-00C7B7)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-host-orange?logo=cloudflare)
 ![Security](https://img.shields.io/badge/security-8.5%2F10-green)
 
 **[🌐 View Live Website](https://patriciagamez.pages.dev/)**
@@ -207,7 +207,6 @@ All animations designed with performance in mind:
 - [ ] Photo gallery integration when professional shots available
 - [ ] Custom domain (.es or .com)
 - [ ] Multilingual support (ES/EN)
-- [ ] Online payment integration (if needed)
 - [ ] Blog/news section for hair care tips
 - [ ] Appointment reminder system via WhatsApp Business API
 
@@ -219,7 +218,7 @@ All animations designed with performance in mind:
 Full Stack Developer | Web Design & Development
 
 - 🌐 Portfolio: [Coming Soon]
-- 💼 LinkedIn: [www.linkedin.com/in/carlos-díaz-arroyo]
+- 💼 LinkedIn: [C.D.A](https://www.linkedin.com/in/carlos-diaaz/)
 - 🐙 GitHub: [@qpbo](https://github.com/qpbo)
 
 ---
@@ -235,14 +234,14 @@ This is a client project developed for Patricia Gámez Estilista. All rights res
 - Client: Patricia Gámez Estilista
 - Location: El Puerto de Santa María, Cádiz, Spain
 - Design Inspiration: Modern luxury salon aesthetics
-- Hosting: Netlify
+- Hosting: Cloudflare
 
 ---
 
 <div align="center">
 
-**[Visit Live Site](https://patriciagamez.pages.dev/)** | **[View Raw Code](https://github.com/qpbo)** | **[Report Issue](https://github.com/qpbo/issues)**
+**[Visit Live Site](https://patriciagamez.pages.dev/)** | **[Report Issue](https://github.com/qpbo/issues)**
 
-Made with 💛 and ✨ by Carlos Diaz Arroyo
+Made with 💛 and lots of ☕ by Carlos Diaz Arroyo
 
 </div>
